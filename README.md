@@ -1,11 +1,5 @@
 # **Git-Bash-GitHub-help-for-me**
 
-## **Prehistory | Предистория**
-
-**en:** I need this repository so that if I forget the basic git bash commands, I can always quickly and conveniently get information on them
-
-**ru:** Это репозиторий нужен мне для того чтобы, если я забуду основные команды git bash, то всегда быстро и удобно смогу получить по ним информацию
-
 ## **Git**
 
   **git add** - Команда git add добавляет содержимое рабочего каталога в индекс (staging area) для последующего коммита. По умолчанию git commit использует лишь этот  индекс, так что вы можете использовать git add для сборки слепка вашего следующего коммита.
